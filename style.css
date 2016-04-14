@@ -1,0 +1,21 @@
+body{
+	margin: 0 5%;
+	font-family: Helvetica;
+}
+
+h2{
+	margin: 0;
+}
+
+#orders{
+	margin: 0;
+	width: 60%;
+	display: inline;
+}
+
+#orders li{
+	background-color: rgba(0, 0, 0, 0.25);
+	padding: 1%;
+	margin: 1% 0;
+	list-style-type: none;
+}
