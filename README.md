@@ -1,3 +1,3 @@
-# AJAX-Tut
+# WikiSearch
 
-Beautiful page #dontjudge
+A simple website to search for content from Wikipedia.
