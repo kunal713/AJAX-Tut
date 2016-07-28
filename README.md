@@ -1,3 +1,3 @@
-# WikiSearch
+# AJAX-Tut
 
 Beautiful Site. #dontjudge
